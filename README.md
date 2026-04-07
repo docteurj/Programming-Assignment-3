@@ -14,7 +14,7 @@ To run the code and visualize the results, ensure you have the following:
 Clone the repository and run scripts
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/docteurj/Programming-Assignment-3.git
 cd "Programming Assignment 3"
 ```
 
